@@ -1,0 +1,6 @@
+name: minimal_project
+version: '1.0.0'
+
+profile: my_profile
+
+source-paths: ["models"]
